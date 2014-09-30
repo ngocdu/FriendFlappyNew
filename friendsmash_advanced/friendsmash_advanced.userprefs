@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../ShootingBuble/Assets/Shooting Bubble Starter Kit/Scripts/BubbleManager.cs">
+    <Files>
+      <File FileName="../../ShootingBuble/Assets/Shooting Bubble Starter Kit/Scripts/BubbleGrid.cs" Line="1" Column="1" />
+      <File FileName="../../ShootingBuble/Assets/Shooting Bubble Starter Kit/Scripts/BubbleManager.cs" Line="655" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
